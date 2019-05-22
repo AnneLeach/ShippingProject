@@ -3,9 +3,7 @@ This project simulates a mail center that processes and tracks shipping items (l
 
 ### Meta
 Author: Anne Leach
-	
 Instructor: Vangelis Metsis
-
 Course: Object-Oriented Design Fall 2017
 
 
